@@ -1,0 +1,170 @@
+{
+  "IT": [
+    {
+      "Name": "Dr. Ritesh Kumar Dhanare",
+      "Email": "Ritesh.dhanare@nmims.edu",
+      "Mobile": "+919876543210",
+      "Initials": "RKD",
+      "Picture": "R.drawable.rkd.png"
+    },
+    {
+      "Name": "Dr. Prashant Udawant",
+      "Email": "prashant.udawant@nmims.edu",
+      "Mobile": "+919854367210",
+      "Initials": "PU",
+      "Picture": "R.drawable.pu.jpg"
+    },
+    {
+      "Name": "Ms. Sonia Relan",
+      "Email": "sonia.relan@nmims.edu",
+      "Mobile": "+919823456710",
+      "Initials": "SR",
+      "Picture": "R.drawable.sr.jpg"
+    },
+    {
+      "Name": "Ms. Pratiksha Meshram",
+      "Email": "pratiksha.meshram@nmims.edu",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      "Mobile": "+919832145670",
+      "Initials": "PM",
+      "Picture": "R.drawable.pm.jpg"
+    },
+    {
+      "Name": "Mr. Piyush Kumar Soni",
+      "Email": "piyushkumar.soni@nmims.edu",
+      "Mobile": "+919876512340",
+      "Initials": "PKS",
+      "Picture": "R.drawable.pks.jpg"
+    },
+    {
+      "Name": "Mr. Pravinkumar B. Landge",
+      "Email": "pravin.landge@nmims.edu",
+      "Mobile": "+919865432710",
+      "Initials": "PBL",
+      "Picture": "R.drawable.pl.jpg"
+    },
+    {
+      "Name": "Mr. Dhiraj V. Bhise",
+      "Email": "dhiraj.bhise@nmims.edu",
+      "Mobile": "+919876543210",
+      "Initials": "DB",
+      "Picture": "R.drawable.db.jpg"
+    }
+  ],
+  "CS": [
+    {
+      "Name": "Dr. Radha Krishna Rambola",
+      "Email": "radhakrishna.rambola@nmims.edu",
+      "Mobile": "+919165815638",
+      "Initials": "RKR",
+      "Picture": "R.drawable.rkr.jpg"
+    },
+    {
+      "Name": "Dr. Varsha Nemade",
+      "Email": "varsha.nemade@nmims.edu",
+      "Mobile": "+919823456710",
+      "Initials": "VN",
+      "Picture": "R.drawable.vn.jpg"
+    },
+    {
+      "Name": "Dr. Upendra Verma",
+      "Email": "upendra.verma@nmims.edu",
+      "Mobile": "+919832145670",
+      "Initials": "UV",
+      "Picture": "R.drawable.uv.jpg"
+    },
+    {
+      "Name": "Dr. Mayank Sohani",
+      "Email": "Mayank.sohani@nmims.edu",
+      "Mobile": "+919876512340",
+      "Initials": "MS",
+      "Picture": "R.drawable.ms.jpg"
+    },
+    {
+      "Name": "Mr. Sachin Chavan",
+      "Email": "sachin.chavan@nmims.edu",
+      "Mobile": "+919865432710",
+      "Initials": "SC",
+      "Picture": "R.drawable.sc.jpg"
+    },
+    {
+      "Name": "Mr. Suraj Patil",
+      "Email": "Suraj.patil@nmims.edu",
+      "Mobile": "+919876543210",
+      "Initials": "SP",
+      "Picture": "R.drawable.sp.jpg"
+    },
+    {
+      "Name": "Mr. Dhananjay Joshi",
+      "Email": "dhananjay.joshi@nmims.edu",
+      "Mobile": "+919854367210",
+      "Initials": "DJ",
+      "Picture": "R.drawable.dj.jpg"
+    },
+    {
+      "Name": "Mr. Bhushan Inje",
+      "Email": "Bhushan.inj@nmims.edu",
+      "Mobile": "+919823456710",
+      "Initials": "BI",
+      "Picture": "R.drawable.bi.jpg"
+    },
+    {
+      "Name": "Dr. Deepti Barhate",
+      "Email": "deepti.barhate@nmims.edu",
+      "Mobile": "+919832145670",
+      "Initials": "DBH",
+      "Picture": "R.drawable.dbh.jpg"
+    },
+    {
+      "Name": "Mr. Sachin Bhandari",
+      "Email": "sachin.bhandari@nmims.edu",
+      "Mobile": "+919876512340",
+      "Initials": "SB",
+      "Picture": "R.drawable.sb.jpg"
+    },
+    {
+      "Name": "Harshal Kotwal",
+      "Email": "harshal.kotwal@nmims.edu",
+      "Mobile": "+919865432710",
+      "Initials": "HK",
+      "Picture": "R.drawable.hk.jpg"
+    },
+    {
+      "Name": "Dr. Surendra Kumar Shukla",
+      "Email": "surendrakumar.shukla@nmims.edu",
+      "Mobile": "+916264602057",
+      "Initials": "SKS",
+      "Picture": "R.drawable.sks.png"
+    },
+    {
+      "Name": "Dr Srikanth Pulipeti",
+      "Email": "srikanth.p@nmims.edu",
+      "Mobile": "+919854367210",
+      "Initials": "SP",
+      "Picture": "R.drawable.sp.jpg"
+    }
+  ]
+}

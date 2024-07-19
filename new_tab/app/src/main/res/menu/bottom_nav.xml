@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottom_academics"
+        android:title="@string/msg1"
+        android:icon="@drawable/graduation_cap_circular_button_svgrepo_com"/>
+
+    <item android:id="@+id/bottom_hostel"
+        android:title="@string/msg2"
+        android:icon="@drawable/hostel"/>
+
+    <item android:id="@+id/bottom_others"
+        android:title="@string/msg3"
+        android:icon="@drawable/baseline_home_24"/>
+
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Campus Connect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="msg1">Academics</string>
+    <string name="msg2">Hostel</string>
+    <string name="msg3">Others</string>
+    <string name="msg4">IT</string>
+    <string name="msg5">CS</string>
+    <string name="msg6">AIML</string>
+
+
+</resources>

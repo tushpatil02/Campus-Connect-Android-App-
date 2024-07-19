@@ -1,0 +1,490 @@
+{
+  "Rooms": [
+    {
+      "Room": "LR1",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR2",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR3",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR4",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR5",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR6",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR7",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR8",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR9",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR10",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR11",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR12",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR13",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR14",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR15",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR16",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "LR17",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR18",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR19",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "LR20",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR21",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR22",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR23",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "LR24",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "FA1",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "FA2",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "FA3",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "FA4",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "FA5",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "FA6",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "FA7",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "FA8",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "FA9",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Labs Computer Center 1 & 2",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Prog-Lab 1",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Mechanics Lab",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Database Lab",
+      "Wing": "B Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Central Library",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Digital Design Lab",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Software Engineering lab",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Signal Processing Lab",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Programming",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Control System Lab",
+      "Wing": "B Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Server room",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Drawing Hall",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Physics lab",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Electronics lab",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Chemistry Lab",
+      "Wing": "B Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Conference Room",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Training & Placament",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Auditorium",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Theatere",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Examination Dept.",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Assessment Room",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "HR Dept",
+      "Wing": "C Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Project Lab 1",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Communication Lab 1",
+      "Wing": "C Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "System Software Lab",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "ACN Lab",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Project Lab 2",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "EXTC Project Lab",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Embedded System Lab",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "PCB Design Lab",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Seminar Hall 1,2,3",
+      "Wing": "C Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Fluid Mechanics Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "I.C Engin/Thermal Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Thermodynamics Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "PLC & Sensoric Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "BOSCH Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "CNC Lab",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Workshop 1 & 2",
+      "Wing": "D Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Theory of Machine Lab",
+      "Wing": "D Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Computer Center",
+      "Wing": "D Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "CAD",
+      "Wing": "D Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Heat Transfer Lab",
+      "Wing": "D Wing",
+      "Floor": "2nd Floor"
+    },
+
+    {
+      "Room": "Associate Dean - Pharmacy",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "P'ceutical Chem Lab-18 11",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Pharmaceutics Lab-I, II & III",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Pilot Plant",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Seminar Room",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Chief A/c. & Admin - Office",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Admission Department",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "ATM & Compu Care",
+      "Wing": "A - Wing",
+      "Floor": "Ground Floor"
+    },
+    {
+      "Room": "Computer Lab-1 P'ceutical Analysis Lab",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Central Faculty Area",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Instrument Room (CIL)",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Piceutical Chem Lab-III",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Research Lab",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Quality Assurance Lab (PG)",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Pharmaceutics Lab (PG)",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "IT Exchange",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Classroom 101, 102, 103 & 104",
+      "Wing": "A - Wing",
+      "Floor": "1st Floor"
+    },
+    {
+      "Room": "Pharmacology Lab-I, II & III",
+      "Wing": "A - Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Piceutical Biotechnology Lab",
+      "Wing": "A - Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Pharmacognosy Lab-18 11",
+      "Wing": "A - Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Computer Lab-II",
+      "Wing": "A - Wing",
+      "Floor": "2nd Floor"
+    },
+    {
+      "Room": "Classroom 201 & 202",
+      "Wing": "A - Wing",
+      "Floor": "2nd Floor"
+    }
+  ]
+}

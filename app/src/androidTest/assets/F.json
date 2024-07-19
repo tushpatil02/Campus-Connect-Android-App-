@@ -1,0 +1,345 @@
+{
+  "CS": [
+    {
+      "id": "1003",
+      "name": "Sarah Smith",
+      "email": "sarah.smith@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 1234567890",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1004",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 9876543210",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1005",
+      "name": "Emily Chen",
+      "email": "emily.chen@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 9999999999",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1006",
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 8888888888",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1007",
+      "name": "Jessica Brown",
+      "email": "jessica.brown@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 7777777777",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1008",
+      "name": "Daniel Martinez",
+      "email": "daniel.martinez@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 6666666666",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1009",
+      "name": "Olivia Taylor",
+      "email": "olivia.taylor@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 5555555555",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1010",
+      "name": "Christopher Nguyen",
+      "email": "christopher.nguyen@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 4444444444",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1011",
+      "name": "Sophia Garcia",
+      "email": "sophia.garcia@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 3333333333",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1012",
+      "name": "Alexander Rodriguez",
+      "email": "alexander.rodriguez@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 2222222222",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    }
+  ],
+
+
+
+  "wardens": [
+    {
+      "id": "1003",
+      "name": "Aarav Patel",
+      "email": "aarav.patel@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 9876543210",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1004",
+      "name": "Ananya Gupta",
+      "email": "ananya.gupta@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 8765432109",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1005",
+      "name": "Aaradhya Singh",
+      "email": "aaradhya.singh@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 7654321098",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1006",
+      "name": "Advik Sharma",
+      "email": "advik.sharma@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 6543210987",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1007",
+      "name": "Diya Mishra",
+      "email": "diya.mishra@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 5432109876",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1008",
+      "name": "Aarav Kumar",
+      "email": "aarav.kumar@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 4321098765",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1009",
+      "name": "Ananya Mishra",
+      "email": "ananya.mishra@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 3210987654",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1010",
+      "name": "Advik Singh",
+      "email": "advik.singh@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 2109876543",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1011",
+      "name": "Diya Patel",
+      "email": "diya.patel@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 1098765432",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1012",
+      "name": "Aaradhya Gupta",
+      "email": "aaradhya.gupta@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 0987654321",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    }
+  ],
+
+  "IT": [
+    {
+      "id": "1003",
+      "name": "Aarav Patel",
+      "email": "aarav.patel@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 9876543210",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1004",
+      "name": "Ananya Gupta",
+      "email": "ananya.gupta@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 8765432109",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1005",
+      "name": "Aaradhya Singh",
+      "email": "aaradhya.singh@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 7654321098",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1006",
+      "name": "Advik Sharma",
+      "email": "advik.sharma@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 6543210987",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1007",
+      "name": "Diya Mishra",
+      "email": "diya.mishra@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 5432109876",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1008",
+      "name": "Aarav Kumar",
+      "email": "aarav.kumar@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 4321098765",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1009",
+      "name": "Ananya Mishra",
+      "email": "ananya.mishra@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 3210987654",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1010",
+      "name": "Advik Singh",
+      "email": "advik.singh@example.com",
+      "gender": "male",
+      "contact": {
+        "mobile": "+91 2109876543",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1011",
+      "name": "Diya Patel",
+      "email": "diya.patel@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 1098765432",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    },
+    {
+      "id": "1012",
+      "name": "Aaradhya Gupta",
+      "email": "aaradhya.gupta@example.com",
+      "gender": "female",
+      "contact": {
+        "mobile": "+91 0987654321",
+        "home": "00 000000",
+        "office": "00 000000"
+      }
+    }
+  ]
+
+
+
+}
